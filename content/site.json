@@ -1,0 +1,1816 @@
+{
+  "name": "Apotheek Theresia",
+  "summary": {
+    "nl": "Apotheek Theresia is de apotheek aan de Theresiastraat in Bezuidenhout, Den Haag, voor buurtbewoners en internationale klanten.",
+    "en": "Apotheek Theresia is the pharmacy on Theresiastraat in Bezuidenhout, The Hague, for local residents and international customers."
+  },
+  "address": {
+    "street": "Theresiastraat 125",
+    "postalCode": "2593 AE",
+    "city": "Den Haag"
+  },
+  "phoneDisplay": "070-3836566",
+  "phoneTel": "+31703836566",
+  "faxDisplay": "070-3836557",
+  "email": "farmacie@apotheektheresia.nl",
+  "prescriptionsEmail": "recepten@apotheektheresia.nl",
+  "timezone": "Europe/Amsterdam",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theresiastraat%20125%2C%202593%20AE%20Den%20Haag",
+  "portalUrl": "https://apotheektheresia.uwzorgonline.nl",
+  "groupUrl": "https://apotheken-denhaag.uwapothekeronline.nl",
+  "insuranceUrl": "https://www.netwerkapotheken.nl/apotheek-theresia/zorgverzekeringen",
+  "hours": [
+    {
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "opens": "08:30",
+      "closes": "12:30"
+    },
+    {
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "opens": "13:30",
+      "closes": "17:30"
+    }
+  ],
+  "emergency": {
+    "name": "Spoedapotheek Den Haag",
+    "street": "Charlotte Jacobslaan 10",
+    "postalCode": "2545 AB",
+    "city": "Den Haag",
+    "phoneDisplay": "070 2101 465",
+    "phoneTel": "+31702101465"
+  },
+  "redirects": [
+    {
+      "source": "/werken-bij",
+      "destination": "/vacatures"
+    },
+    {
+      "source": "/servilocker",
+      "destination": "/afhaalautomaat"
+    },
+    {
+      "source": "/mijn-medicijnen-app",
+      "destination": "/uw-zorg-online-app"
+    },
+    {
+      "source": "/patientenfolders",
+      "destination": "/medische-encyclopedie"
+    },
+    {
+      "source": "/recall",
+      "destination": "/"
+    },
+    {
+      "source": "/informatie-oud",
+      "destination": "/algemene-informatie"
+    },
+    {
+      "source": "/patienteninformatie-over-het-coronavirus-covid-19",
+      "destination": "/algemene-informatie"
+    },
+    {
+      "source": "/algemene-verordening-gegevensbescherming-avg",
+      "destination": "/privacy-2"
+    },
+    {
+      "source": "/wat-zegt-mijn-polis",
+      "destination": "https://www.netwerkapotheken.nl/apotheek-theresia/zorgverzekeringen"
+    },
+    {
+      "source": "/wat-is-het-rs-virus-en-waaraan-herken-je-het",
+      "destination": "/"
+    },
+    {
+      "source": "/farmaceutische-groothandel-stopt-levering-meestgebruikte-bloedverdunner",
+      "destination": "/"
+    },
+    {
+      "source": "/bloedverdunner-eliquis-toch-weer-beschikbaar-dankzij-tijdelijke-afspraken",
+      "destination": "/"
+    },
+    {
+      "source": "/kosteloze-abortuszorg-voor-ongedocumenteerde-zwangeren-in-amsterdam",
+      "destination": "/"
+    },
+    {
+      "source": "/melatonine-bij-stressgerelateerde-slaapstoornissen",
+      "destination": "/"
+    },
+    {
+      "source": "/kookadvies-drinkwater-in-provincie-utrecht-vanwege-besmetting",
+      "destination": "/"
+    },
+    {
+      "source": "/terugroepactie-babyvoeding-nestle-bacterie-kan-babys-ziek-maken",
+      "destination": "/"
+    },
+    {
+      "source": "/stoppen-met-afslankmedicijnen-betekent-zonder-leefstijlaanpassingen-weer-gewichtstoename",
+      "destination": "/"
+    },
+    {
+      "source": "/sinds-huisartsen-afslankmedicijnen-mogen-voorschrijven-neemt-gebruik-toe",
+      "destination": "/"
+    },
+    {
+      "source": "/schurft-sinds-corona-geen-vergeten-ziekte-meer-aantal-uitbraken-fors-gestegen",
+      "destination": "/"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "",
+      "template": "home",
+      "showHours": true,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Apotheek Theresia | Den Haag",
+        "description": "Apotheek Theresia aan de Theresiastraat in Den Haag. Openingstijden, herhaalrecepten, afhaalautomaat en inschrijven.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Wist u dat Apotheek Theresia u de volgende services aanbiedt?"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Herhaal Service: 3-maandelijkse automatische levering van uw chronische medicatie. Wij zorgen voor de aanvraag van uw chronische recept bij de huisarts. Meld u zich aan bij een van onze medewerkers.",
+              "Afhaalbericht: wanneer uw medicatie gereed staat, ontvangt u van ons bericht. Geef uw e-mail en 06-nummer door aan de balie of stuur een e-mail naar [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl).",
+              "Geneesmiddelen Uitgifte Automaat: 24/7 uw medicatie ophalen. Meld u aan via een medewerker of via de pagina Afhaalautomaat.",
+              "Uw Zorg Online App: download de app en vraag uw chronische medicatie aan."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Kijksluiter maakt de bijsluiter begrijpelijk"
+          },
+          {
+            "type": "p",
+            "text": "Kijksluiter is een bibliotheek van ongeveer 5.000 animatievideo’s waarin de belangrijkste informatie uit de bijsluiter in begrijpelijke taal wordt uitgelegd. U bekijkt de video’s via [Kijksluiter](https://kijksluiter.nl/index.html?zn=57KQ6NY)."
+          },
+          {
+            "type": "h2",
+            "text": "Algemene Verordening Gegevensbescherming"
+          },
+          {
+            "type": "p",
+            "text": "Per 25 mei 2018 geldt de AVG. Wij vragen in het bijzonder aandacht voor [teruggebrachte medicatie](/privacy-2). Lees de [privacyverklaring](/privacy-2) en de [privacy- en cookieverklaring](/privacy)."
+          }
+        ]
+      },
+      "en": {
+        "title": "Apotheek Theresia | The Hague",
+        "description": "Apotheek Theresia on Theresiastraat in The Hague. Opening hours, repeat prescriptions, the collection machine, and how to register.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Services at Apotheek Theresia"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Repeat service: automatic supply of your chronic medication every three months. We request the repeat prescription from your GP. Ask a member of staff to sign you up.",
+              "Collection message: we let you know when your medication is ready. Leave your email and mobile number at the counter, or email [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl).",
+              "Dispensing machine: collect medication at any hour. Sign up with a member of staff or on the collection-machine page.",
+              "Uw Zorg Online app: order chronic medication from your phone."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Kijksluiter explains the package leaflet"
+          },
+          {
+            "type": "p",
+            "text": "Kijksluiter is a library of about 5,000 short videos that explain the important parts of a medicine leaflet in plain language. Watch them on [Kijksluiter](https://kijksluiter.nl/index.html?zn=57KQ6NY)."
+          },
+          {
+            "type": "h2",
+            "text": "Data protection"
+          },
+          {
+            "type": "p",
+            "text": "The GDPR has applied since 25 May 2018. We ask you to pay particular attention to [returned medication](/en/privacy-2). Read the [privacy statement](/en/privacy-2) and the [privacy and cookie statement](/en/privacy)."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "inschrijven",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": "register",
+      "optional": false,
+      "nl": {
+        "title": "Inschrijven",
+        "description": "Schrijf u in bij Apotheek Theresia. Vul het inschrijfformulier in met uw persoons-, adres- en verzekeringsgegevens.",
+        "translated": true,
+        "blocks": []
+      },
+      "en": {
+        "title": "Register",
+        "description": "Register at Apotheek Theresia with the same registration form as the pharmacy website.",
+        "translated": true,
+        "blocks": []
+      }
+    },
+    {
+      "slug": "afhaalautomaat",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": "locker",
+      "optional": false,
+      "nl": {
+        "title": "Afhaalautomaat",
+        "description": "Meld u aan voor de afhaalautomaat van Apotheek Theresia en haal uw medicatie op wanneer het u uitkomt.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Wilt u uw medicijnen ophalen wanneer het u uitkomt? Maak dan gebruik van onze afhaalautomaat. Wij leggen uw medicijnen in de automaat op het moment dat uw recept klaar is. Zo hoeft u niet in de apotheek te wachten."
+          }
+        ]
+      },
+      "en": {
+        "title": "Collection machine",
+        "description": "Sign up for the collection machine at Apotheek Theresia and pick up medication when it suits you.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Want to collect your medicines when it suits you? Use the collection machine. We place your medicines in the machine when the prescription is ready, so you do not have to wait in the pharmacy."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "algemene-informatie",
+      "template": "article",
+      "showHours": true,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Algemene informatie",
+        "description": "Services, openingstijden, bezorging en het inloopspreekuur van Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Services"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Herhaal Service: elke drie maanden automatische levering van chronische medicatie. Wij vragen het recept bij de huisarts aan.",
+              "Afhaalbericht: geef uw e-mail en 06-nummer door, of mail [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl).",
+              "Geneesmiddelen Uitgifte Automaat: ophalen op elk moment van de dag.",
+              "Uw Zorg Online App: chronische medicatie aanvragen via de app."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Openingstijden"
+          },
+          {
+            "type": "p",
+            "text": "Maandag tot en met vrijdag van 8.30 tot 17.30 uur, met een lunchpauze van 12.30 tot 13.30 uur."
+          },
+          {
+            "type": "h2",
+            "text": "Dienstregeling"
+          },
+          {
+            "type": "p",
+            "text": "Buiten de reguliere openingstijden kunt u terecht bij de Spoedapotheek op het terrein van het HagaZiekenhuis Leyenburg, Leyenburgweg 275, telefoon [070-2101465](tel:+31702101465), vanaf 17.30 uur. De spoedapotheek op het Spoedplein zit aan de Charlotte Jacobslaan 10, 2545 AB Den Haag."
+          },
+          {
+            "type": "h2",
+            "text": "Bezorgen"
+          },
+          {
+            "type": "p",
+            "text": "Als u genees-, verband- of hulpmiddelen niet zelf kunt ophalen, bezorgen wij die thuis. Wij bezorgen tussen 12 en 18 uur en spreken geen tijdstip af. Uw arts kan een recept telefonisch, per fax of elektronisch doorgeven. Herhaalmedicatie kunt u telefonisch of per e-mail aanvragen."
+          },
+          {
+            "type": "h2",
+            "text": "Inloopspreekuur"
+          },
+          {
+            "type": "p",
+            "text": "Op deze pagina staat het inloopspreekuur voor vragen over gebruik, bijwerkingen, wisselwerkingen en medicijnen in het buitenland dagelijks van 10.00 tot 11.00 uur. Op de homepage noemt de apotheek 14.00 tot 15.00 uur. Vraag aan de balie welk uur die dag geldt."
+          }
+        ]
+      },
+      "en": {
+        "title": "General information",
+        "description": "Services, opening hours, home delivery, and the walk-in consultation at Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Services"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Repeat service: chronic medication supplied automatically every three months. We request the prescription from your GP.",
+              "Collection message: leave your email and mobile number, or email [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl).",
+              "Dispensing machine: collect at any time of day.",
+              "Uw Zorg Online app: order chronic medication in the app."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Opening hours"
+          },
+          {
+            "type": "p",
+            "text": "Monday to Friday, 8:30 to 17:30, with a lunch break from 12:30 to 13:30."
+          },
+          {
+            "type": "h2",
+            "text": "Out of hours"
+          },
+          {
+            "type": "p",
+            "text": "Outside opening hours you can use the emergency pharmacy at HagaZiekenhuis Leyenburg, Leyenburgweg 275, phone [070-2101465](tel:+31702101465), from 17:30. The emergency pharmacy on the Spoedplein is at Charlotte Jacobslaan 10, 2545 AB The Hague."
+          },
+          {
+            "type": "h2",
+            "text": "Delivery"
+          },
+          {
+            "type": "p",
+            "text": "If you cannot collect medicines, dressings, or devices yourself, we deliver them. Delivery is between 12:00 and 18:00 and we do not book a time slot. Your doctor can send a prescription by phone, fax, or electronically. You can request repeat medication by phone or email."
+          },
+          {
+            "type": "h2",
+            "text": "Walk-in consultation"
+          },
+          {
+            "type": "p",
+            "text": "This page lists a daily walk-in hour from 10:00 to 11:00 for questions about use, side effects, interactions, and medicines abroad. The homepage lists 14:00 to 15:00. Ask at the counter which hour applies that day."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ons-team",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Ons team",
+        "description": "Het team van Apotheek Theresia in Bezuidenhout, Den Haag.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ons team staat voor u klaar. Op deze website vindt u algemene informatie. Voor een vraag over uw eigen medicatie belt of mailt u ons, of komt u langs."
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia hoort bij een samenwerkingsverband van vier Haagse apotheken: Apotheek Theresia, Apotheek Francken, Duinrand Apotheek en Duin Apotheek. Beherend apotheker is mw. C.S.Y. Chung."
+          },
+          {
+            "type": "p",
+            "text": "Adres, telefoon en openingstijden staan op [Route](/route) en [Openingstijden](/openingstijden)."
+          }
+        ]
+      },
+      "en": {
+        "title": "Our team",
+        "description": "The team at Apotheek Theresia in Bezuidenhout, The Hague.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The team is here to help. This website has general information. For a question about your own medication, call, email, or visit."
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia is part of a partnership of four pharmacies in The Hague: Apotheek Theresia, Apotheek Francken, Duinrand Apotheek, and Duin Apotheek. The managing pharmacist is Ms C.S.Y. Chung."
+          },
+          {
+            "type": "p",
+            "text": "Address, phone, and hours are on [Directions](/en/route) and [Opening hours](/en/openingstijden)."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "onze-huisregels",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Onze huisregels",
+        "description": "Huisregels van Apotheek Theresia, versie januari 2022.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "Ieder persoon wordt met respect en volgens de wettelijke regels behandeld. Dat geldt voor bezoekers en voor medewerkers.",
+              "Wij tolereren geen agressie, geweld of ongewenst seksueel intimiderend gedrag.",
+              "Wij tolereren geen discriminatie, beledigingen of grof taalgebruik.",
+              "Een bezoeker die zich ongepast gedraagt, kan de toegang worden geweigerd.",
+              "Foto’s en geluids- of filmopnames zijn verboden, vanwege de privacy van bezoekers en medewerkers.",
+              "Bij overtreding, diefstal of een calamiteit schakelen wij de politie in.",
+              "Bij een calamiteit volgt u de aanwijzingen van de bedrijfshulpverlener.",
+              "Minder valide bezoekers krijgen voorrang op een zitplaats.",
+              "Wij kunnen vragen naar uw burgerservicenummer en een legitimatiebewijs.",
+              "Aan kinderen onder de 12 jaar geven wij geen geneesmiddelen mee.",
+              "Er is camerabewaking. De beelden bewaren wij maximaal twee weken.",
+              "Roken en eten of drinken is in de apotheek niet toegestaan.",
+              "Bel niet in de wachtruimte. Wij kunnen u niet helpen terwijl u belt.",
+              "Huisdieren zijn niet toegestaan, hulphonden wel.",
+              "U let zelf op uw eigendommen. De apotheek is niet aansprakelijk voor schade, verlies of diefstal.",
+              "Geneesmiddelen die de apotheek hebben verlaten, nemen wij alleen terug om te vernietigen.",
+              "Andere ongeopende handverkoopartikelen kunt u binnen 8 dagen retourneren, in de originele staat en met de kassabon. De apotheek beoordeelt dat.",
+              "Voor artikelen die wij speciaal voor u bestellen, kunnen wij vooraf betaling vragen. Die artikelen neemt u af en kunt u niet terugbrengen.",
+              "Vraag gerust naar een persoonlijk gesprek of bezorging.",
+              "Folders mag u gratis meenemen.",
+              "Wij accepteren geen biljetten van 200 en 500 euro en geen creditcards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "FFF-huisregels, versie 01-2022."
+          }
+        ]
+      },
+      "en": {
+        "title": "House rules",
+        "description": "House rules of Apotheek Theresia, January 2022.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "Everyone is treated with respect and within the law. That applies to visitors and to staff.",
+              "We do not tolerate aggression, violence, or unwanted sexual behaviour.",
+              "We do not tolerate discrimination, insults, or abusive language.",
+              "A visitor who behaves inappropriately can be refused entry or asked to leave.",
+              "Photos and audio or video recordings are not allowed, to protect the privacy of visitors and staff.",
+              "In case of a breach, theft, or an emergency we call the police.",
+              "In an emergency, follow the instructions of the first-aid officer.",
+              "Visitors with reduced mobility have priority for a seat.",
+              "We may ask for your citizen service number and identification.",
+              "We do not hand medicines to children under 12.",
+              "Cameras are in use. Images are kept for at most two weeks.",
+              "Smoking, eating, and drinking are not allowed in the pharmacy.",
+              "Please do not make calls in the waiting area. We cannot help you while you are on the phone.",
+              "Pets are not allowed, except assistance dogs.",
+              "Keep your belongings with you. The pharmacy is not liable for damage, loss, or theft.",
+              "Medicines that have left the pharmacy are accepted back only for destruction.",
+              "Other unopened retail items can be returned within 8 days, in original condition and with the receipt. The pharmacy decides.",
+              "For items ordered specially for you, we may ask for payment in advance. You are obliged to take them, and they cannot be returned.",
+              "Ask if you want a private conversation or home delivery.",
+              "Leaflets are free to take.",
+              "We do not accept 200 or 500 euro notes, or credit cards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "FFF house rules, version 01-2022."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "openingstijden",
+      "template": "article",
+      "showHours": true,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Openingstijden",
+        "description": "Apotheek Theresia is maandag tot en met vrijdag open van 8.30 tot 17.30 uur, met een lunchpauze.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Maandag tot en met vrijdag van 08.30 tot 17.30 uur. Tijdens de lunchpauze van 12.30 tot 13.30 uur is de apotheek dicht. Medicatie die klaarstaat, haalt u op via de 24/7 afhaalkluis."
+          },
+          {
+            "type": "p",
+            "text": "Wilt u op doordeweekse dagen tussen 08.00 en 08.30 uur naar een apotheek, dan kunt u terecht bij [Duinrand Apotheek](https://www.duinrandapotheek.nl) op het terrein van HMC, locatie Bronovo."
+          },
+          {
+            "type": "h2",
+            "text": "Dienstregeling"
+          },
+          {
+            "type": "p",
+            "text": "Op zaterdag, zondag en feestdagen gaat u naar Spoedapotheek Den Haag, op het Spoedplein van het HagaZiekenhuis, Charlotte Jacobslaan 10, 2545 AB Den Haag, telefoon [070 2101 465](tel:+31702101465)."
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia bezorgt medicatie aan huis van maandag tot en met vrijdag."
+          },
+          {
+            "type": "h2",
+            "text": "Speciale openingstijden"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "24 december: 8.30–16.00 uur",
+              "25 december: gesloten",
+              "26 december: gesloten",
+              "31 december: 8.30–16.00 uur",
+              "1 januari: gesloten"
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Opening hours",
+        "description": "Apotheek Theresia is open Monday to Friday from 8:30 to 17:30, with a lunch break.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Monday to Friday, 08:30 to 17:30. The pharmacy is closed for lunch from 12:30 to 13:30. Medication that is ready can be collected from the 24/7 locker."
+          },
+          {
+            "type": "p",
+            "text": "On weekdays between 08:00 and 08:30, [Duinrand Apotheek](https://www.duinrandapotheek.nl) at HMC Bronovo is open."
+          },
+          {
+            "type": "h2",
+            "text": "Out of hours"
+          },
+          {
+            "type": "p",
+            "text": "On Saturday, Sunday, and public holidays, go to Spoedapotheek Den Haag on the Spoedplein of HagaZiekenhuis, Charlotte Jacobslaan 10, 2545 AB The Hague, phone [070 2101 465](tel:+31702101465)."
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia delivers medication at home from Monday to Friday."
+          },
+          {
+            "type": "h2",
+            "text": "Holiday hours"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "24 December: 8:30–16:00",
+              "25 December: closed",
+              "26 December: closed",
+              "31 December: 8:30–16:00",
+              "1 January: closed"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slug": "route",
+      "template": "article",
+      "showHours": true,
+      "showMap": true,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Route",
+        "description": "Apotheek Theresia, Theresiastraat 125, 2593 AE Den Haag.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "De apotheek ligt aan de Theresiastraat in de wijk Bezuidenhout."
+          },
+          {
+            "type": "p",
+            "text": "E-mail algemeen: [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl). E-mail voor zorgverleners: [recepten@apotheektheresia.nl](mailto:recepten@apotheektheresia.nl)."
+          }
+        ]
+      },
+      "en": {
+        "title": "Directions",
+        "description": "Apotheek Theresia, Theresiastraat 125, 2593 AE The Hague.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The pharmacy is on Theresiastraat in the Bezuidenhout neighbourhood."
+          },
+          {
+            "type": "p",
+            "text": "General email: [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl). Email for healthcare professionals: [recepten@apotheektheresia.nl](mailto:recepten@apotheektheresia.nl)."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "services",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Services",
+        "description": "Medicatieveiligheid, zorgvragen en online diensten van Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "U kunt bij ons terecht voor een breed scala aan services. Voor meer over specialisaties neemt u contact op."
+          },
+          {
+            "type": "h2",
+            "text": "Medicatieveiligheid"
+          },
+          {
+            "type": "p",
+            "text": "De apotheker zorgt voor veilig geneesmiddelgebruik. Daarvoor hebben wij persoonlijke gegevens nodig, zoals geboortedatum en geslacht, en gegevens over medicijnen en ziektebeelden. Zo voorkomen wij bijwerkingen en combinaties die niet samen kunnen."
+          },
+          {
+            "type": "h3",
+            "text": "Identiteit"
+          },
+          {
+            "type": "p",
+            "text": "Wij behandelen alleen zorgvragen van patiënten van wie de identiteit voldoende betrouwbaar is vast te stellen. Minimaal hebben wij de volledige naam en geboortedatum nodig, en zo nodig het adres. Die gegevens blijven binnen de apotheek."
+          },
+          {
+            "type": "h3",
+            "text": "Medicatiedossier"
+          },
+          {
+            "type": "p",
+            "text": "In het dossier staan naam, adres, geslacht, eventueel een bezorgadres, het huidige en eerdere medicijngebruik, overgevoeligheden en ziektebeelden. Medicatiegegevens verstrekken wij aan u, en aan andere zorgverleners alleen met uw instemming. Ontbreken er gegevens, dan vragen wij die op om de veiligheid te bewaken."
+          },
+          {
+            "type": "p",
+            "text": "U blijft zelf verantwoordelijk voor wijzigingen in uw gegevens, medicijngebruik en ziektebeelden. Geef die zo snel mogelijk door."
+          },
+          {
+            "type": "h2",
+            "text": "Zorgvragen"
+          },
+          {
+            "type": "p",
+            "text": "U bereikt ons telefonisch, per e-mail en aan de balie. Er is een spreekkamer voor langere vragen, een medicijnconsult of een gevoelig onderwerp. Vragen die per e-mail of via de website binnenkomen, behandelen wij binnen een redelijke termijn. Bij onduidelijkheid neemt de apotheker contact op."
+          },
+          {
+            "type": "p",
+            "text": "Herhaalrecepten vraagt u aan in de [patiëntenomgeving](https://apotheektheresia.uwzorgonline.nl)."
+          }
+        ]
+      },
+      "en": {
+        "title": "Services",
+        "description": "Medication safety, questions, and online services at Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The pharmacy offers a wide range of services. Contact us if you want to know more about a specialism."
+          },
+          {
+            "type": "h2",
+            "text": "Medication safety"
+          },
+          {
+            "type": "p",
+            "text": "The pharmacist is responsible for safe use of medicines. We need personal details, such as date of birth and sex, and information about your medicines and conditions. That is how we avoid side effects and combinations that should not be used together."
+          },
+          {
+            "type": "h3",
+            "text": "Identity"
+          },
+          {
+            "type": "p",
+            "text": "We only handle requests when we can establish identity reliably. At a minimum we need your full name and date of birth, and your address when needed. Those details stay inside the pharmacy."
+          },
+          {
+            "type": "h3",
+            "text": "Medication record"
+          },
+          {
+            "type": "p",
+            "text": "The record holds your name, address, sex, a delivery address if you have one, current and past medicines, intolerances, and conditions. We give medication data to you, and to other healthcare professionals only with your consent. If something is missing, we ask for it so we can keep use safe."
+          },
+          {
+            "type": "p",
+            "text": "You remain responsible for telling us about changes in your details, medicines, and conditions. Please do that as soon as you can."
+          },
+          {
+            "type": "h2",
+            "text": "Questions"
+          },
+          {
+            "type": "p",
+            "text": "You can reach us by phone, email, and at the counter. A consultation room is available for longer questions, a medication review, or a sensitive subject. We answer questions that arrive by email or the website within a reasonable time. If something is unclear, the pharmacist contacts you."
+          },
+          {
+            "type": "p",
+            "text": "Order repeat prescriptions in the [patient portal](https://apotheektheresia.uwzorgonline.nl)."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "klachtenregeling",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": "complaint",
+      "optional": false,
+      "nl": {
+        "title": "Klachtenregeling",
+        "description": "Een suggestie of klacht over Apotheek Theresia bespreekt u met een medewerker of de apotheker.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Uw mening telt"
+          },
+          {
+            "type": "p",
+            "text": "Wij zoeken manieren om onze producten en dienstverlening te verbeteren. Heeft u een suggestie, dan horen wij dat graag."
+          },
+          {
+            "type": "h2",
+            "text": "U heeft een klacht"
+          },
+          {
+            "type": "p",
+            "text": "Bespreek de klacht met een medewerker of met de apotheker. Wij nemen een klacht serieus en lossen die samen met u op. Komen we er niet uit, dan leest u op [Apotheek.nl](https://www.apotheek.nl/zorg-van-de-apotheker/klachten-over-uw-apotheek) wat u daarna kunt doen."
+          },
+          {
+            "type": "h2",
+            "text": "Vragen over de rekening"
+          },
+          {
+            "type": "p",
+            "text": "Voor vragen of klachten over de zorgnota neemt u contact op met uw zorgverzekeraar. De gegevens staan op de nota of op uw polisblad."
+          }
+        ]
+      },
+      "en": {
+        "title": "Complaints",
+        "description": "Share a suggestion or complaint about Apotheek Theresia with a member of staff or the pharmacist.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Your view matters"
+          },
+          {
+            "type": "p",
+            "text": "We look for ways to improve our products and service. If you have a suggestion, please tell us."
+          },
+          {
+            "type": "h2",
+            "text": "You have a complaint"
+          },
+          {
+            "type": "p",
+            "text": "Discuss it with a member of staff or with the pharmacist. We take a complaint seriously and work with you to resolve it. If we cannot, [Apotheek.nl](https://www.apotheek.nl/zorg-van-de-apotheker/klachten-over-uw-apotheek) explains what you can do next."
+          },
+          {
+            "type": "h2",
+            "text": "Questions about a bill"
+          },
+          {
+            "type": "p",
+            "text": "Questions or complaints about the invoice go to your health insurer. The contact details are on the invoice or your policy."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "uw-zorg-online-app",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Uw Zorg online app",
+        "description": "Medicatieoverzicht en herhaalrecepten via de Uw Zorg online app van Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "De online diensten van de apotheek zijn ook beschikbaar in de Uw Zorg online app, voor iOS en Android. U krijgt toegang tot uw medicatieoverzicht en kunt eerder voorgeschreven medicijnen bestellen. Inloggen kan ook via de [patiëntenomgeving](https://apotheektheresia.uwzorgonline.nl)."
+          },
+          {
+            "type": "h2",
+            "text": "Wat kunt u in de app"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Medicatieoverzicht inzien",
+              "Herhaalrecepten bestellen",
+              "Gegevens over de apotheek bekijken",
+              "Innameherinneringen instellen",
+              "Een PDF van het online medicatieoverzicht downloaden"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Een Windows Phone-versie is er niet. Feedback geeft u via de knop in het hoofdscherm van de app."
+          }
+        ]
+      },
+      "en": {
+        "title": "Uw Zorg online app",
+        "description": "Medication overview and repeat prescriptions in the Uw Zorg online app from Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The pharmacy’s online services are also in the Uw Zorg online app for iOS and Android. You can see your medication overview and order medicines that were prescribed before. You can also sign in through the [patient portal](https://apotheektheresia.uwzorgonline.nl)."
+          },
+          {
+            "type": "h2",
+            "text": "What the app does"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "View your medication overview",
+              "Order repeat prescriptions",
+              "See pharmacy details",
+              "Set intake reminders",
+              "Download a PDF of the online medication overview"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "There is no Windows Phone version. Feedback goes through the button on the app’s home screen."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "privacy",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": true,
+      "nl": {
+        "title": "Privacy- en cookieverklaring",
+        "description": "Hoe Apotheek Theresia persoonsgegevens en cookies op deze website verwerkt.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Wij hechten belang aan de privacy van bezoekers van deze website. Deze verklaring beschrijft de kern van wat de apotheek publiceert, en wat deze preview zelf doet."
+          },
+          {
+            "type": "h2",
+            "text": "Kernwaarden van de apotheek"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Informeren: de apotheek legt uit hoe en waarom persoonsgegevens worden verwerkt.",
+              "Verzameling beperken: alleen gegevens die nodig zijn voor de website en de dienst.",
+              "Geen marketing op basis van persoonsgegevens, en commerciële mail alleen na uitdrukkelijke toestemming.",
+              "Gegevens gaan niet naar andere partijen, tenzij dat nodig is voor de dienst of wettelijk verplicht is.",
+              "Passende beveiliging, ook bij verwerkers.",
+              "Wettelijke rechten, waaronder inzage, correctie en verwijdering, worden gerespecteerd."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Waarvoor de website gegevens kan gebruiken"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Een account of profiel, als u dat zelf aanmaakt.",
+              "Inschrijven en een afspraak.",
+              "Een anamnese- of herhaalreceptformulier, uitsluitend voor de zorg.",
+              "Medicatie aanvragen in de persoonlijke omgeving.",
+              "Een eConsult.",
+              "Opname in het medisch dossier als dat wettelijk mag of u daarvoor toestemming geeft.",
+              "Een contactformulier, alleen om de vraag te behandelen.",
+              "Een bestelling en, waar nodig, de bezorgdienst.",
+              "Een nieuwsbrief, alleen na toestemming, die u weer kunt intrekken."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Deze preview"
+          },
+          {
+            "type": "p",
+            "text": "Deze preview stuurt paginabezoeken naar Google Analytics alleen nadat u accepteert, en alleen wanneer de beheerder een GA4-meet-id heeft gezet. Zonder meet-id wordt er niets gemeten en verschijnt er geen cookiebanner. Een afwijzing laadt geen script. Het formulier op deze preview verstuurt niets zolang er geen webhook is ingesteld. Zet geen burgerservicenummer of medische gegevens in dat formulier."
+          },
+          {
+            "type": "p",
+            "text": "De uitgebreidere verklaring van de apothekengroep staat op [Privacy](/privacy-2)."
+          }
+        ]
+      },
+      "en": {
+        "title": "Privacy and cookie statement",
+        "description": "How Apotheek Theresia handles personal data and cookies, and what this preview stores.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Privacy of people who use this website matters. This page summarises what the pharmacy publishes, and what this preview itself does."
+          },
+          {
+            "type": "h2",
+            "text": "Principles published by the pharmacy"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Inform people how and why personal data is processed.",
+              "Collect only what the website and the service need.",
+              "No marketing based on personal data, and commercial email only after explicit consent.",
+              "No sharing with other parties unless the service requires it or the law requires it.",
+              "Appropriate security, including from processors.",
+              "Legal rights, including access, correction, and deletion, are respected."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "What the website may use data for"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "An account or profile, if you create one.",
+              "Registration and an appointment.",
+              "A history or repeat-prescription form, only to provide care.",
+              "Ordering medication in the personal environment.",
+              "An eConsult.",
+              "Adding information to the medical record when the law allows it or you consent.",
+              "A contact form, only to handle the question.",
+              "An order and, where needed, the delivery service.",
+              "A newsletter, only after consent, which you can withdraw."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "This preview"
+          },
+          {
+            "type": "p",
+            "text": "This preview sends page views to Google Analytics only after you accept, and only when the operator has set a GA4 measurement id. With no measurement id, nothing is measured and no consent banner is shown. Reject loads no script. The form on this preview sends nothing until a webhook is configured. Do not put a citizen service number or medical details in that form."
+          },
+          {
+            "type": "p",
+            "text": "The longer statement of the pharmacy group is on [Privacy](/en/privacy-2)."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "privacy-2",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": true,
+      "nl": {
+        "title": "Privacy",
+        "description": "Privacyverklaring van Apotheek Francken, Duinrand Apotheek, Apotheek Theresia en Duin Apotheek.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In deze privacyverklaring leggen wij uit welke persoonsgegevens wij verzamelen en gebruiken en met welk doel, en welke rechten u hebt."
+          },
+          {
+            "type": "h2",
+            "text": "Privacybeleid van de apothekengroep"
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Francken, Duinrand Apotheek, Apotheek Theresia en Duin Apotheek verwerken gegevens om farmaceutische zorg te kunnen leveren. Persoonsgegevens worden zorgvuldig verwerkt en beveiligd, volgens de privacywetgeving."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Wij vermelden voor welke doeleinden wij persoonsgegevens verwerken.",
+              "Wij beperken de verzameling tot wat voor die doeleinden nodig is.",
+              "Waar toestemming vereist is, vragen wij die eerst.",
+              "Wij geven gegevens niet aan derden, tenzij dat nodig is voor de dienst of wettelijk verplicht is.",
+              "Met derden maken wij afspraken zodat gegevens niet voor een ander doel worden gebruikt.",
+              "Wij nemen passende beveiligingsmaatregelen en eisen dat ook van verwerkers.",
+              "U kunt inzage, correctie of verwijdering vragen."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Doeleinden"
+          },
+          {
+            "type": "p",
+            "text": "Persoonsgegevens zijn nodig om medicatie te verstrekken, contact met u op te nemen en te factureren. Haalt u medicatie bij een dienstapotheek, dan delen wij het medicatiedossier alleen met uw toestemming."
+          },
+          {
+            "type": "p",
+            "text": "Cliëntgegevens, waaronder het medicatiedossier, worden binnen de groep centraal geadministreerd. Recepten en bestellingen worden zoveel mogelijk centraal verwerkt. Daardoor kunnen andere apotheken van de groep uw gegevens inzien. Heeft u daar bezwaar tegen, neem dan contact op met de apotheek waar u staat ingeschreven."
+          },
+          {
+            "type": "h3",
+            "text": "Welke gegevens"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "NAW-gegevens",
+              "geboortedatum en leeftijd",
+              "burgerservicenummer",
+              "telefoonnummer en e-mailadres",
+              "geslacht",
+              "verzekeringsgegevens",
+              "medicatiegegevens, allergieën en relevante aandoeningen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Toestemming voor het Landelijk Schakelpunt regelt u op [volgjezorg.nl](https://www.volgjezorg.nl/)."
+          },
+          {
+            "type": "p",
+            "text": "Deze tekst volgt de gepubliceerde verklaring. Voor een vraag over uw dossier mailt u [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl) of belt u [070-3836566](tel:+31703836566)."
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "voorwaarden",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": true,
+      "nl": {
+        "title": "Gebruiksvoorwaarden",
+        "description": "Voorwaarden voor het gebruik van de website van Apotheek Theresia.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "De website wordt aangeboden door Apotheek Theresia. Door de website te gebruiken, gaat u akkoord met deze voorwaarden."
+          },
+          {
+            "type": "h2",
+            "text": "Artikel 1. Gebruik van de website"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "1.1. Biedt de website een extra beveiligde omgeving, dan registreert u zich eerst. Na afronding, en waar nodig na accordering, kunt u inloggen.",
+              "1.2. U houdt uw wachtwoord geheim. Handelingen vanaf uw account na aanmelding met uw gebruikersnaam en wachtwoord gelden als de uwe, tenzij u heeft gemeld dat een ander het wachtwoord kent.",
+              "1.3. Voor een dienst kan extra identificatie worden gevraagd.",
+              "1.4. Een registratie kan zonder opgaaf van reden worden geweigerd.",
+              "1.5. Medische informatie op de website is algemene kennisgeving en vervangt geen consult. Voor persoonlijk advies neemt u contact op met Apotheek Theresia.",
+              "1.6. Persoonsgegevens worden verwerkt zoals beschreven in de privacyverklaring."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Artikel 2. Gebruiksregels"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "2.1. Het is verboden de website te gebruiken in strijd met Nederlandse of andere toepasselijke wetgeving, de openbare orde of de goede zeden.",
+              "2.2. Bij een overtreding volgt een waarschuwing. Blijft een oplossing uit, dan mag de apotheek ingrijpen. In urgente of ernstige gevallen kan dat zonder waarschuwing.",
+              "2.3. Ontstaat er gevaar voor systemen of de dienstverlening, bijvoorbeeld door overmatig e-mailen, een datalek of malware, dan mag de apotheek maatregelen nemen.",
+              "2.4. De apotheek mag aangifte doen en, onder voorwaarden, identificerende gegevens afgeven aan een derde die klaagt over een inbreuk."
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Terms of use",
+        "description": "Terms for using the Apotheek Theresia website.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The website is offered by Apotheek Theresia. By using it, you agree to these terms."
+          },
+          {
+            "type": "h2",
+            "text": "Article 1. Use of the website"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "1.1. If the website offers an extra secured area, you register first. After registration, and approval where that is required, you can sign in.",
+              "1.2. You keep your password secret. Actions from your account after sign-in with your username and password count as yours, unless you have reported that someone else knows the password.",
+              "1.3. A service may require extra identification.",
+              "1.4. A registration may be refused without giving a reason.",
+              "1.5. Medical information on the website is general information and does not replace a consultation. For personal advice, contact Apotheek Theresia.",
+              "1.6. Personal data is processed as described in the privacy statement."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Article 2. Rules of use"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "2.1. You may not use the website in breach of Dutch or other applicable law, public order, or decency.",
+              "2.2. A breach leads to a warning. If that does not resolve it, the pharmacy may intervene. In urgent or serious cases it may do so without a warning.",
+              "2.3. If systems or the service are at risk, for example through excessive email, a data leak, or malware, the pharmacy may take measures.",
+              "2.4. The pharmacy may report a criminal offence and, under conditions, release identifying details to a third party who complains of an infringement."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slug": "toestemming",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Toestemming LSP",
+        "description": "Toestemming om medische gegevens te delen via het Landelijk Schakelpunt.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Elektronisch gegevens delen"
+          },
+          {
+            "type": "p",
+            "text": "Uw huisarts en uw apotheek houden elk een eigen dossier bij. De huisarts legt klachten en behandelingen vast. De apotheker legt vast welke medicijnen u krijgt en voor welke medicijnen u allergisch bent. Die gegevens kunnen worden uitgewisseld via het LSP (Landelijk Schakelpunt)."
+          },
+          {
+            "type": "h2",
+            "text": "Toestemming geven"
+          },
+          {
+            "type": "p",
+            "text": "Gebruikt uw huisarts of apotheek het LSP, dan vraagt die u om toestemming. Na uw toestemming meldt de zorgverlener uw gegevens aan door uw burgerservicenummer door te geven."
+          },
+          {
+            "type": "h2",
+            "text": "Gegevens opvragen"
+          },
+          {
+            "type": "p",
+            "text": "Een andere zorgverlener kan uw gegevens opvragen als dat nodig is voor uw behandeling. In het netwerk staan alleen uw burgerservicenummer en welke huisarts en apotheek gegevens beschikbaar hebben. Uw medische gegevens zelf staan niet in het LSP."
+          },
+          {
+            "type": "h2",
+            "text": "Regionaal"
+          },
+          {
+            "type": "p",
+            "text": "Het LSP is verdeeld in ongeveer veertig regio’s. Huisartsen, huisartsenposten en apotheken wisselen binnen zo’n regio gegevens uit. Ziekenhuizen kunnen met meerdere regio’s uitwisselen. Komt u bij een zorgverlener uit een andere regio, dan kan het gebeuren dat gegevens niet kunnen worden opgevraagd."
+          },
+          {
+            "type": "p",
+            "text": "U kunt mondeling toestemming geven, het formulier inleveren bij uw zorgverlener, of het online regelen op [volgjezorg.nl](https://www.volgjezorg.nl/). Toestemming geeft u per zorgaanbieder, en u kunt die intrekken."
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Voorlichtingsfolder Volgjezorg",
+                "href": "https://www.volgjezorg.nl/media/downloads/jouw-medische-gegevens-beschikbaar-het-lsp/download"
+              },
+              {
+                "label": "Toestemmingsformulier",
+                "href": "https://www.volgjezorg.nl/media/downloads/toestemmingsformulier/download"
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Consent for the national exchange",
+        "description": "Consent to share medical data through the Dutch national switch point (LSP).",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Sharing records electronically"
+          },
+          {
+            "type": "p",
+            "text": "Your GP and your pharmacy each keep their own record. The GP records symptoms and treatment. The pharmacist records which medicines you receive and which medicines you are allergic to. Those details can be exchanged through the LSP, the national switch point."
+          },
+          {
+            "type": "h2",
+            "text": "Giving consent"
+          },
+          {
+            "type": "p",
+            "text": "If your GP or pharmacy uses the LSP, they ask for your consent. After you agree, the professional registers that your data is available by submitting your citizen service number."
+          },
+          {
+            "type": "h2",
+            "text": "Requesting data"
+          },
+          {
+            "type": "p",
+            "text": "Another professional can request your data when that is needed for your treatment. The network only stores your citizen service number and which GP and pharmacy have data available. The medical data itself is not stored in the LSP."
+          },
+          {
+            "type": "h2",
+            "text": "Regions"
+          },
+          {
+            "type": "p",
+            "text": "The LSP is split into about forty regions. GPs, out-of-hours GP posts, and pharmacies exchange data inside a region. Hospitals can exchange with more than one region. If you also see a professional in another region, data may not be available to them."
+          },
+          {
+            "type": "p",
+            "text": "You can consent verbally, hand in the form to your professional, or arrange it online at [volgjezorg.nl](https://www.volgjezorg.nl/). You consent per organisation, and you can withdraw it."
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Volgjezorg leaflet",
+                "href": "https://www.volgjezorg.nl/media/downloads/jouw-medische-gegevens-beschikbaar-het-lsp/download"
+              },
+              {
+                "label": "Consent form",
+                "href": "https://www.volgjezorg.nl/media/downloads/toestemmingsformulier/download"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kijksluiter",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Kijksluiter",
+        "description": "Animatievideo’s die de bijsluiter van uw medicijn in begrijpelijke taal uitleggen.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Kijksluiter maakt de bijsluiter begrijpelijk"
+          },
+          {
+            "type": "p",
+            "text": "Veel mensen vinden de bijsluiter ingewikkeld. Kijksluiter is een bibliotheek van ongeveer 5.000 animatievideo’s met de belangrijkste informatie in begrijpelijke taal."
+          },
+          {
+            "type": "p",
+            "text": "U bekijkt de video thuis, zo vaak als u wilt. Kies een taal, zoek uw medicijn en speel de video af via [Kijksluiter](https://kijksluiter.nl/index.html?zn=57KQ6NY)."
+          },
+          {
+            "type": "h2",
+            "text": "Gekoppeld aan uw medicatieoverzicht"
+          },
+          {
+            "type": "p",
+            "text": "In de [patiëntenomgeving](https://apotheektheresia.uwzorgonline.nl) staan de Kijksluiters die bij uw eigen medicatie horen."
+          }
+        ]
+      },
+      "en": {
+        "title": "Kijksluiter",
+        "description": "Short videos that explain your medicine leaflet in plain language.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "A leaflet you can watch"
+          },
+          {
+            "type": "p",
+            "text": "Many people find the printed leaflet hard to follow. Kijksluiter is a library of about 5,000 short videos with the important information in plain language."
+          },
+          {
+            "type": "p",
+            "text": "Watch at home, as often as you like. Choose a language, search for your medicine, and play the video on [Kijksluiter](https://kijksluiter.nl/index.html?zn=57KQ6NY)."
+          },
+          {
+            "type": "h2",
+            "text": "Linked to your medication overview"
+          },
+          {
+            "type": "p",
+            "text": "The [patient portal](https://apotheektheresia.uwzorgonline.nl) shows the videos that match your own medication."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "vacatures",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": "job",
+      "optional": false,
+      "nl": {
+        "title": "Vacatures",
+        "description": "Apotheek Theresia zoekt een gediplomeerd apothekersassistent.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Wij zoeken een gediplomeerd apothekersassistent. Stuur uw motivatiebrief en cv naar [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl). Voor vragen kunt u langskomen, bellen of mailen."
+          },
+          {
+            "type": "h2",
+            "text": "Wie zoeken we?"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Balie- en backofficewerk",
+              "Recepten afhandelen en verwerken",
+              "Voorlichting bij geneesmiddelen en zelfzorg",
+              "Voorraad bewaken",
+              "Overige werkzaamheden in de apotheek"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Wie zijn wij?"
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia ligt aan de Theresiastraat in Bezuidenhout. De apotheek hoort bij een samenwerkingsverband van vier Haagse apotheken en is HKZ-gecertificeerd. Het team is jong en zelfstandig. De apotheek levert persoonlijke zorg aan Nederlandse en internationale klanten en heeft een assortiment handverkoop en cosmetica."
+          },
+          {
+            "type": "h2",
+            "text": "Wat bieden wij?"
+          },
+          {
+            "type": "p",
+            "text": "Uren in overleg en salaris volgens de cao apotheken. U werkt met forensen, toeristen en buurtbewoners, en met korte lijnen naar huisartsen en andere apotheken. Solliciteer bij mw. C.S.Y. Chung, beherend apotheker, via het e-mailadres hierboven. Deze preview ontvangt geen cv-bestanden."
+          }
+        ]
+      },
+      "en": {
+        "title": "Vacancies",
+        "description": "Apotheek Theresia is hiring a qualified pharmacy technician.",
+        "translated": true,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "We are looking for a qualified pharmacy technician (apothekersassistent). Send your letter and CV to [farmacie@apotheektheresia.nl](mailto:farmacie@apotheektheresia.nl). You can also visit, call, or email with questions."
+          },
+          {
+            "type": "h2",
+            "text": "The work"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Counter and back-office work",
+              "Handling and processing prescriptions",
+              "Advice when dispensing medicines and self-care products",
+              "Stock control",
+              "Other day-to-day pharmacy work"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "The pharmacy"
+          },
+          {
+            "type": "p",
+            "text": "Apotheek Theresia is on Theresiastraat in Bezuidenhout. It is part of a partnership of four pharmacies in The Hague and is HKZ certified. The team is young and works independently. The pharmacy provides personal care to Dutch and international customers and carries a range of retail and cosmetic products."
+          },
+          {
+            "type": "h2",
+            "text": "What we offer"
+          },
+          {
+            "type": "p",
+            "text": "Hours by agreement and salary under the pharmacy collective agreement. The work mixes commuters, tourists, and local residents, with short lines to GPs and other pharmacies. Apply to Ms C.S.Y. Chung, managing pharmacist, at the email address above. This preview does not accept CV files."
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ramadan-en-medicijngebruik",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Ramadan en medicijngebruik",
+        "description": "Bespreek enkele weken voor de ramadan met uw apotheker of uw medicijnen aangepast moeten worden.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Medicijnen aanpassen tijdens de ramadan"
+          },
+          {
+            "type": "p",
+            "text": "Als u vast, is het lastig om medicijnen op de gewone momenten in te nemen. Uw lichaam kan ook anders reageren, omdat u anders eet en slaapt. Inname op een lege maag kan meer bijwerkingen geven, zoals maag- en darmklachten."
+          },
+          {
+            "type": "p",
+            "text": "Uw apotheker kan medicijnen tijdelijk aanpassen, bijvoorbeeld:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "medicijnen die langer werken, zodat eenmaal daags innemen tussen zonsondergang en zonsopgang genoeg is;",
+              "een aangepaste dosis, omdat een medicijn sterker kan werken als u minder eet;",
+              "advies over innamemomenten, bijvoorbeeld als u een medicijn bij het ontbijt of een half uur voor de maaltijd inneemt."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Wat het beste past, hangt af van uw ziekte, uw medicijnen, uw gezondheid en wat u zelf wilt. Overleg enkele weken vóór de ramadan met uw apotheker. Krijgt u tijdens de ramadan klachten, overleg dan met uw apotheker of arts."
+          },
+          {
+            "type": "h2",
+            "text": "Ramadan en diabetesmedicatie"
+          },
+          {
+            "type": "p",
+            "text": "Bij diabetes kan de bloedsuiker ontregeld raken door een ander dagritme, minder maaltijden en vet of zoet eten. Neem enkele weken van tevoren contact op. De apotheker kan, eventueel met uw arts, een ander innameschema, langer werkende insuline of extra controle adviseren."
+          },
+          {
+            "type": "h2",
+            "text": "Ramadan en dieet"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Begin de dag met een grote maaltijd.",
+              "Eet ’s avonds niet te veel en te zwaar.",
+              "Drink tussen zonsondergang en zonsopgang veel, bijvoorbeeld water, thee of vruchtensap."
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Vasten niet altijd verplicht"
+          },
+          {
+            "type": "p",
+            "text": "De Koran noemt groepen die niet hoeven te vasten. Definitieve vrijstelling geldt onder meer voor kinderen tot de puberteit, ouderen die te zwak zijn, mensen met een chronische ziekte die elke dag meerdere keren medicijnen moeten gebruiken, en mensen met dementie, een verstandelijke beperking of een psychiatrische ziekte."
+          },
+          {
+            "type": "p",
+            "text": "Tijdelijke vrijstelling geldt onder meer voor menstruatie, zwangerschap, borstvoeding, tijdelijke ziekte, reizen en zware lichamelijke inspanning. Tijdelijke vrijstelling haalt u later in. Bij definitieve vrijstelling kunt u op een andere manier bijdragen, bijvoorbeeld met geld of eten."
+          },
+          {
+            "type": "p",
+            "text": "Bron: [apotheek.nl](https://www.apotheek.nl/themas/ramadan-en-medicijngebruik)."
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "meldpunt-bijwerkingen",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Meldpunt bijwerkingen",
+        "description": "Meld een bijwerking van een geneesmiddel bij het Bijwerkingencentrum Lareb.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Het [Nederlands Bijwerkingen Centrum Lareb](https://www.lareb.nl/) is het nationale meldpunt voor bijwerkingen van geneesmiddelen. Doordat meldingen op één plek binnenkomen, kan Lareb de veiligheid bewaken. Meld een bijwerking daarom."
+          },
+          {
+            "type": "p",
+            "text": "Wat u stuurt, wordt vertrouwelijk behandeld. Ervaringen die geen bijwerking zijn, zoals een probleem met de verpakking of de bijsluiter, horen niet bij deze melding."
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Begin uw melding bij Lareb",
+                "href": "https://www.lareb.nl/Meld-bijwerking/Meldformulier.aspx"
+              }
+            ]
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "geneesmiddelen-mee-op-reis",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Geneesmiddelen mee op reis",
+        "description": "Een verklaring is nodig als u geneesmiddelen die onder de Opiumwet vallen meeneemt naar het buitenland.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Geneesmiddelen die onder de Opiumwet vallen, kunt u niet zomaar meenemen naar het buitenland. Daarvoor is een verklaring nodig."
+          },
+          {
+            "type": "h2",
+            "text": "Opiumwetmiddelen"
+          },
+          {
+            "type": "p",
+            "text": "Een opiumwetmiddel werkt op het bewustzijn. Lijst I bevat onder meer zware pijnstillers en methylfenidaat (Ritalin). Lijst II bevat onder meer slaap- en kalmeringsmiddelen. De lijsten staan op [hetcak.nl](https://www.hetcak.nl/)."
+          },
+          {
+            "type": "h2",
+            "text": "Welke verklaring"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Schengenverklaring voor reizen binnen het Schengengebied. [Download het formulier bij het CAK](https://www.hetcak.nl/medicijnen-mee-op-reis/regelen/schengen-medicijnverklaring-downloaden/).",
+              "Een Engelstalige medische verklaring voor reizen buiten het Schengengebied. Het CAK legt de stappen uit op [hetcak.nl](https://www.hetcak.nl/)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Het CAK controleert de verklaringen. Buiten het Schengengebied moet de verklaring ook worden gelegaliseerd door het ministerie van Buitenlandse Zaken. Zie de [brochure van het CAK](https://app.hetcak.nl/regelingen/medicijnen-mee-op-reis/advies-verklaringen/)."
+          },
+          {
+            "type": "h2",
+            "text": "Schengenlanden"
+          },
+          {
+            "type": "p",
+            "text": "België, Malta, Denemarken, Nederland, Duitsland, Noorwegen, Estland, Oostenrijk, Finland, Polen, Frankrijk, Portugal, Griekenland, Slovenië, Hongarije, Slowakije, Italië, Spanje, Letland, Tsjechië, Liechtenstein, IJsland, Litouwen, Zweden, Luxemburg en Zwitserland."
+          },
+          {
+            "type": "p",
+            "text": "Reizen zonder de vereiste verklaring is strafbaar. Meer informatie: [hetcak.nl](https://www.hetcak.nl/) of 0800 2108. Bron: Het CAK."
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "medische-encyclopedie",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Medische encyclopedie",
+        "description": "Betrouwbare informatie over medicijnen van de apotheker, via Apotheek.nl.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Alles over medicijnen"
+          },
+          {
+            "type": "p",
+            "text": "Betrouwbare informatie van de apotheker staat op Apotheek.nl. U zoekt daar op geneesmiddel."
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Zoek een geneesmiddel op Apotheek.nl",
+                "href": "https://www.apotheek.nl/medicijnen"
+              }
+            ]
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "farmacotherapeutisch-kompas",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": false,
+      "nl": {
+        "title": "Farmacotherapeutisch Kompas",
+        "description": "Het Farmacotherapeutisch Kompas is geschreven voor artsen, apothekers en mensen in opleiding voor die beroepen.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Het Farmacotherapeutisch Kompas biedt informatie over geneesmiddelen die in Nederland beschikbaar zijn, met voorschrijf- en toepassingsadviezen. De website is primair bestemd voor artsen en apothekers en voor wie voor die beroepen wordt opgeleid."
+          },
+          {
+            "type": "p",
+            "text": "U kunt zoeken op stof- of merknaam en op indicatie."
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Ga naar het Farmacotherapeutisch Kompas",
+                "href": "https://www.farmacotherapeutischkompas.nl/"
+              }
+            ]
+          }
+        ]
+      },
+      "en": null
+    },
+    {
+      "slug": "links",
+      "template": "article",
+      "showHours": false,
+      "showMap": false,
+      "form": null,
+      "optional": true,
+      "nl": {
+        "title": "Links",
+        "description": "Doorverwijzingen naar publieke informatie over zorg, geneesmiddelen en gezondheid.",
+        "translated": false,
+        "blocks": [
+          {
+            "type": "h2",
+            "text": "Adressen in de zorg"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Kies beter, Zorginstituut Nederland",
+                "href": "https://www.kiesbeter.nl/"
+              },
+              {
+                "label": "Tandarts.nl",
+                "href": "https://www.tandarts.nl/"
+              },
+              {
+                "label": "GGD",
+                "href": "https://www.ggd.nl/"
+              },
+              {
+                "label": "Apotheek.nl",
+                "href": "https://www.apotheek.nl/"
+              }
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Bijwerkingen"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Bijwerkingen, Gezondheidsplein",
+                "href": "https://www.gezondheidsplein.nl/aandoeningen/bijwerkingen-van-medicijnen/item34647"
+              },
+              {
+                "label": "Bijwerkingen, Apotheek.nl",
+                "href": "https://www.apotheek.nl/themas/bijwerkingen"
+              },
+              {
+                "label": "Lareb",
+                "href": "https://www.lareb.nl/"
+              }
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Eerste hulp"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Kinderen en medicijnvergiftiging",
+                "href": "https://www.apotheek.nl/zorg-van-de-apotheker/uw-apotheker-geeft-antwoord/kinderen-en-medicijnvergiftiging"
+              },
+              {
+                "label": "Brandwonden, Thuisarts",
+                "href": "https://www.thuisarts.nl/brandwonden/ik-heb-me-verbrand"
+              },
+              {
+                "label": "Gifwijzer",
+                "href": "https://www.gifwijzer.nl/"
+              },
+              {
+                "label": "Tips bij EHBO",
+                "href": "https://www.ehbo.nl/tips/"
+              }
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Geneesmiddelen"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Medicijnkosten",
+                "href": "https://www.medicijnkosten.nl/"
+              },
+              {
+                "label": "Geneesmiddelen en verkeer",
+                "href": "https://www.apotheek.nl/themas/medicijnen-in-het-verkeer"
+              },
+              {
+                "label": "Geneesmiddelen en alcohol",
+                "href": "https://www.apotheek.nl/themas/alcohol-en-medicijnen"
+              },
+              {
+                "label": "Medicijnen, Apotheek.nl",
+                "href": "https://www.apotheek.nl/medicijnen"
+              }
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Reizen en vergoeding"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "LCR",
+                "href": "https://www.lcr.nl/"
+              },
+              {
+                "label": "RIVM",
+                "href": "https://www.rivm.nl/"
+              },
+              {
+                "label": "Medicijnen op reis",
+                "href": "https://www.apotheek.nl/themas/medicijnen-op-reis"
+              },
+              {
+                "label": "Vergoeding Apotheek Theresia",
+                "href": "https://www.netwerkapotheken.nl/apotheek-theresia/zorgverzekeringen"
+              }
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Zwangerschap"
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "label": "Pil vergeten, Thuisarts",
+                "href": "https://www.thuisarts.nl/anticonceptiepil/ik-ben-pil-vergeten"
+              },
+              {
+                "label": "Zwangerschap en kinderwens",
+                "href": "https://www.apotheek.nl/klachten-ziektes/zwangerschap-en-kinderwens"
+              }
+            ]
+          }
+        ]
+      },
+      "en": null
+    }
+  ]
+}
