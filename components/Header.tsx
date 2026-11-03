@@ -33,7 +33,7 @@ export function Header() {
       </div>
       <div className="nav-bar">
         <a className="wordmark" href={hrefFor(locale, "")}>
-          <img src="/media/logo.jpg" alt="Apotheek Theresia" width={635} height={260} />
+          <img src="/media/logo-nav.jpg" alt="Apotheek Theresia" width={296} height={122} />
         </a>
         <button
           type="button"

@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import path from "node:path";
 import site from "./content/site.json";
 
 const securityHeaders = [
@@ -25,6 +26,21 @@ const redirects = site.redirects.flatMap((rule) =>
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  images: {
+    deviceSizes: [640, 750, 828, 1080, 1280],
+    qualities: [60, 75],
+  },
+  webpack: (config, { isServer, webpack }) => {
+    if (!isServer) {
+      config.plugins.push(
+        new webpack.NormalModuleReplacementPlugin(
+          /[\\/]next[\\/]dist[\\/]build[\\/]polyfills[\\/]polyfill-module(?:\.js)?$/,
+          path.join(__dirname, "lib/modern-polyfill.js"),
+        ),
+      );
+    }
+    return config;
+  },
   async redirects() {
     return redirects;
   },

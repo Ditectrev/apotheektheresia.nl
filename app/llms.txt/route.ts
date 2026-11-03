@@ -8,7 +8,7 @@ export function GET() {
     "",
     `> ${business.summary.nl}`,
     "",
-    "This host is a preview of https://www.apotheektheresia.nl. Pages send noindex. Dutch is the primary language. English pages exist where a translation is published; otherwise the Dutch text is shown.",
+    "This host is a preview of https://www.apotheektheresia.nl. Dutch is the primary language. English pages exist where a translation is published; otherwise the Dutch text is shown.",
     "",
     "## Pages",
   ];

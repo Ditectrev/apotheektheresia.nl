@@ -54,7 +54,6 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   return {
     title: copy.title,
     description: copy.description,
-    robots: { index: false, follow: false },
     alternates: { canonical: absolute(canonicalPath), languages },
     openGraph: {
       title: copy.title,

@@ -11,14 +11,16 @@ import "./globals.css";
 
 const roboto = Roboto({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
+  weight: ["400", "700"],
+  preload: true,
   variable: "--font-roboto",
   display: "swap",
 });
 
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["500", "600", "700"],
+  weight: ["600"],
+  preload: true,
   variable: "--font-poppins",
   display: "swap",
 });
@@ -26,7 +28,6 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl()),
   title: "Apotheek Theresia",
-  robots: { index: false, follow: false },
 };
 
 const themeScript = `(function(){try{var t=localStorage.getItem("theme");if(t!=="light"&&t!=="dark")t="system";var dark=t==="dark"||(t==="system"&&matchMedia("(prefers-color-scheme: dark)").matches);var root=document.documentElement;root.dataset.theme=dark?"dark":"light";root.dataset.themeChoice=t;var path=location.pathname;root.lang=path==="/en"||path.indexOf("/en/")===0?"en":"nl";}catch(e){}})();`;

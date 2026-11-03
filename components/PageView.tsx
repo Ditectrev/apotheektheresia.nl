@@ -130,7 +130,10 @@ export function PageView({
               }
               width={1280}
               height={320}
+              sizes="100vw"
+              quality={60}
               priority
+              fetchPriority="high"
             />
             <div className="welcome-dock">
               <ul className="welcome-actions">
